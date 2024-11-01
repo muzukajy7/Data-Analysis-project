@@ -14,8 +14,8 @@ targeted marketing strategies, and sales forecasting within the bike retail indu
 - Which models or categories have the highest and lowest return rates?
 - Are there seasonal trends in bike sales? If so, when are peak and low sales periods?
 - What are the year-over-year growth rates for each bike category?
-# DashBoard Interaction
-- <a  href = "https://github.com/muzukajy7/Data-Analysis-project/blob/main/dashboard%20screenshort.png">DashBoard</a
+# Dashboard Interaction
+- <a  href = "https://github.com/muzukajy7/Data-Analysis-project/blob/main/dashboard%20screenshort.png">DashBoard</a>
 # Process
 - Data Collection: Downloaded the bike sales dataset from internet in order to collect all the required data points such as sale dates, customer demographics, categories of bikes, and revenue figures.
 
