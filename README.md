@@ -4,6 +4,6 @@ The objective of this project is to analyze bike sales data to gain insights int
 By cleaning, organizing, and visualizing the dataset, this analysis aims to identify key factors that drive sales, popular product categories, and demographic preferences.
 Through the use of Excel for data manipulation and dashboard creation, this project will highlight actionable insights that can support decision-making for inventory management, 
 targeted marketing strategies, and sales forecasting within the bike retail industry.
-#Data Set
--<#href = "https://github.com/muzukajy7/Data-Analysis-project/blob/main/Excel%20Project%20Dataset.xlsx">DataSet</a>
+# Data Set 
+- <a href = "https://github.com/muzukajy7/Data-Analysis-project/blob/main/Excel%20Project%20Dataset.xlsx">DataSet</a>
 
