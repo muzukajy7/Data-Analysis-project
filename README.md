@@ -28,5 +28,11 @@ Data Visualization: Charts created in Excel include line, bar, and pie charts th
 
 - Summary of Insights: Summarized key findings regarding popular bike models, demographic preferences, seasonal trends, and other relevant aspects to support inventory management and marketing strategies.
 
+# Dashboard
+![dashboard screenshort](https://github.com/user-attachments/assets/2ee59ca6-dba9-441d-a2f3-0856b8cc1e00)
+
+
+
+
 
 
